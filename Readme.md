@@ -15,10 +15,10 @@ Using Matplotlib, the following graphs were created:
 Python -  Matplotlib, Pandas, Numpy, Seaborn
 
 ## **Screenshots (Graphs):**
-![graph1.png](analysis/Fig1.PNG)
-![graph2.png](analysis/Fig2.PNG)
-![graph3.png](analysis/Fig3.PNG)
-![graph4.png](analysis/Fig4.PNG)
+![graph1.png](analysis/Fig1.png)
+![graph2.png](analysis/Fig2.png)
+![graph3.png](analysis/Fig3.png)
+![graph4.png](analysis/Fig4.png)
 
 ### Analysis
 
